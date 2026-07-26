@@ -1,262 +1,107 @@
-#EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
+湖北移动中兴平台
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV1.png" group-title="央视频道",CCTV1
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000131
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV2.png" group-title="央视频道",CCTV2
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000357
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV3.png" group-title="央视频道",CCTV3
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000391
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV4.png" group-title="央视频道",CCTV4
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000409
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000558
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000559
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV5.png" group-title="央视频道",CCTV5
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000322
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV5+.png" group-title="央视频道",CCTV5+
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000503
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV6.png" group-title="央视频道",CCTV6
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000392
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV7.png" group-title="央视频道",CCTV7
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000358
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV8.png" group-title="央视频道",CCTV8
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000393
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV9.png" group-title="央视频道",CCTV9
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000359
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV10.png" group-title="央视频道",CCTV10
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000360
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV11.png" group-title="央视频道",CCTV11
-rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000583
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV12.png" group-title="央视频道",CCTV12
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000361
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV13.png" group-title="央视频道",CCTV13
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000514
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV14.png" group-title="央视频道",CCTV14
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000362
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV15.png" group-title="央视频道",CCTV15
-rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000587
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV16.png" group-title="央视频道",CCTV16
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV17.png" group-title="央视频道",CCTV17
-rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000580
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV4K.png" group-title="央视频道",CCTV4K
-rtsp://111.48.34.138:1554/170000004112/HBGD9935055570721873923307127370
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="http://kakaxi.indevs.in/LOGO/兵器科技.png" group-title="央视频道",兵器科技
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000307
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="http://kakaxi.indevs.in/LOGO/风云音乐.png" group-title="央视频道",风云音乐
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000319
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="http://kakaxi.indevs.in/LOGO/风云足球.png" group-title="央视频道",风云足球
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000310
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="http://kakaxi.indevs.in/LOGO/怀旧剧场.png" group-title="央视频道",怀旧剧场
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000318
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="http://kakaxi.indevs.in/LOGO/第一剧场.png" group-title="央视频道",第一剧场
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000305
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="http://kakaxi.indevs.in/LOGO/女性时尚.png" group-title="央视频道",女性时尚
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000315
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="http://kakaxi.indevs.in/LOGO/世界地理.png" group-title="央视频道",世界地理
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000320
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="http://kakaxi.indevs.in/LOGO/央视台球.png" group-title="央视频道",央视台球
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000348
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="http://kakaxi.indevs.in/LOGO/高尔夫网球.png" group-title="央视频道",高尔夫网球
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000312
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="http://kakaxi.indevs.in/LOGO/电视指南.png" group-title="央视频道",电视指南
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000316
-#EXTINF:-1 tvg-name="老故事" tvg-logo="http://kakaxi.indevs.in/LOGO/老故事.png" group-title="央视频道",老故事
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000314
-#EXTINF:-1 tvg-name="中学生" tvg-logo="http://kakaxi.indevs.in/LOGO/中学生.png" group-title="央视频道",中学生
-rtsp://111.48.34.138:1554/170000004112/HBGD1086708833718050816962827426
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000174
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/浙江卫视.png" group-title="卫视频道",浙江卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000195
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/江苏卫视.png" group-title="卫视频道",江苏卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000177
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/东方卫视.png" group-title="卫视频道",东方卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000198
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/深圳卫视.png" group-title="卫视频道",深圳卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000176
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/北京卫视.png" group-title="卫视频道",北京卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000173
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/广东卫视.png" group-title="卫视频道",广东卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000197
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/广西卫视.png" group-title="卫视频道",广西卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000515
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/东南卫视.png" group-title="卫视频道",东南卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000346
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/海南卫视.png" group-title="卫视频道",海南卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000442
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/河北卫视.png" group-title="卫视频道",河北卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000447
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/河南卫视.png" group-title="卫视频道",河南卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000463
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/湖北卫视.png" group-title="卫视频道",湖北卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000194
-#EXTINF:-1 tvg-name="湖北经视" tvg-logo="http://kakaxi.indevs.in/LOGO/湖北经视.png" group-title="卫视频道",湖北经视
-rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444588
-#EXTINF:-1 tvg-name="湖北综合" tvg-logo="http://kakaxi.indevs.in/LOGO/湖北综合.png" group-title="卫视频道",湖北综合
-rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444593
-#EXTINF:-1 tvg-name="湖北影视" tvg-logo="http://kakaxi.indevs.in/LOGO/湖北影视.png" group-title="卫视频道",湖北影视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000518
-#EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="http://kakaxi.indevs.in/LOGO/湖北公共.png" group-title="卫视频道",湖北公共新闻
-rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444582
-#EXTINF:-1 tvg-name="湖北教育" tvg-logo="http://kakaxi.indevs.in/LOGO/湖北教育.png" group-title="卫视频道",湖北教育
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000519
-#EXTINF:-1 tvg-name="湖北生活" tvg-logo="http://kakaxi.indevs.in/LOGO/湖北生活.png" group-title="卫视频道",湖北生活
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000517
-#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="http://kakaxi.indevs.in/LOGO/湖北垄上.png" group-title="卫视频道",湖北垄上
-rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444600
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/江西卫视.png" group-title="卫视频道",江西卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000396
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/四川卫视.png" group-title="卫视频道",四川卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000464
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/重庆卫视.png" group-title="卫视频道",重庆卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000418
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/贵州卫视.png" group-title="卫视频道",贵州卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000419
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/云南卫视.png" group-title="卫视频道",云南卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000038
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/天津卫视.png" group-title="卫视频道",天津卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000323
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/安徽卫视.png" group-title="卫视频道",安徽卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000325
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/山东卫视.png" group-title="卫视频道",山东卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000324
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000326
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000175
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/吉林卫视.png" group-title="卫视频道",吉林卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000528
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000148
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000060
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/山西卫视.png" group-title="卫视频道",山西卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000077
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/陕西卫视.png" group-title="卫视频道",陕西卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000068
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD8790008720259235848417405421
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/青海卫视.png" group-title="卫视频道",青海卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000074
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/新疆卫视.png" group-title="卫视频道",新疆卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000075
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/西藏卫视.png" group-title="卫视频道",西藏卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000078
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/厦门卫视.png" group-title="卫视频道",厦门卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD8213740706910740489902289856
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/三沙卫视.png" group-title="卫视频道",三沙卫视
-rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000589
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/兵团卫视.png" group-title="卫视频道",兵团卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000516
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/延边卫视.png" group-title="卫视频道",延边卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD8790062031491768322269017598
-#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/康巴卫视.png" group-title="卫视频道",康巴卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD8790066950704414726368066759
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="http://kakaxi.indevs.in/LOGO/山东教育.png" group-title="卫视频道",山东教育
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000553
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="http://kakaxi.indevs.in/LOGO/CETV1.png" group-title="卫视频道",CETV1
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000342
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="http://kakaxi.indevs.in/LOGO/CETV2.png" group-title="卫视频道",CETV2
-rtsp://111.48.34.138:1554/170000004112/00005000000000000000000000000251
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="http://kakaxi.indevs.in/LOGO/CETV4.png" group-title="卫视频道",CETV4
-rtsp://111.48.34.138:1554/170000004112/00005000000000000000000000000252
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://kakaxi.indevs.in/LOGO/CHC动作电影.png" group-title="数字频道",CHC动作电影
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000523
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://kakaxi.indevs.in/LOGO/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000522
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="http://kakaxi.indevs.in/LOGO/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000539
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://kakaxi.indevs.in/LOGO/凤凰中文.png" group-title="数字频道",凤凰中文
-rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://kakaxi.indevs.in/LOGO/凤凰资讯.png" group-title="数字频道",凤凰资讯
-rtsp://111.48.34.138:1554/170000004112/HBGD1097583896160083968342677179
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="http://kakaxi.indevs.in/LOGO/睛彩青少.png" group-title="数字频道",睛彩青少
-http://111.48.246.74/000000001000PLTV/88888888/224/3221230584/1.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="http://kakaxi.indevs.in/LOGO/睛彩篮球.png" group-title="数字频道",睛彩篮球
-http://111.48.246.74/000000001000PLTV/88888888/224/3221230336/1.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="http://kakaxi.indevs.in/LOGO/睛彩竞技.png" group-title="数字频道",睛彩竞技
-http://111.48.246.74/000000001000PLTV/88888888/224/3221230371/1.m3u8
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="http://kakaxi.indevs.in/LOGO/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
-http://111.48.246.74/000000001000PLTV/88888888/224/3221230582/1.m3u8
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="http://kakaxi.indevs.in/LOGO/魅力足球.png" group-title="数字频道",魅力足球
-rtsp://111.48.34.138:1554/170000004112/HBGD9805142106550681606189861515
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://kakaxi.indevs.in/LOGO/金鹰纪实.png" group-title="数字频道",金鹰纪实
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000343
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="http://kakaxi.indevs.in/LOGO/茶频道.png" group-title="数字频道",茶频道
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000425
-#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="http://kakaxi.indevs.in/LOGO/先锋乒羽.png" group-title="数字频道",先锋乒羽
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000423
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="http://kakaxi.indevs.in/LOGO/快乐垂钓.png" group-title="数字频道",快乐垂钓
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000421
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="http://kakaxi.indevs.in/LOGO/四海钓鱼.png" group-title="数字频道",四海钓鱼
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000531
-#EXTINF:-1 tvg-name="国学" tvg-logo="http://kakaxi.indevs.in/LOGO/国学.png" group-title="数字频道",国学
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000284
-#EXTINF:-1 tvg-name="书画" tvg-logo="http://kakaxi.indevs.in/LOGO/书画.png" group-title="数字频道",书画
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000424
-#EXTINF:-1 tvg-name="环球奇观" tvg-logo="http://kakaxi.indevs.in/LOGO/环球奇观.png" group-title="数字频道",环球奇观
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000282
-#EXTINF:-1 tvg-name="汽摩" tvg-logo="http://kakaxi.indevs.in/LOGO/汽摩.png" group-title="数字频道",汽摩
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000313
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="http://kakaxi.indevs.in/LOGO/武术世界.png" group-title="数字频道",武术世界
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000291
-#EXTINF:-1 tvg-name="梨园" tvg-logo="http://kakaxi.indevs.in/LOGO/梨园频道.png" group-title="数字频道",梨园
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000301
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="http://kakaxi.indevs.in/LOGO/文物宝库.png" group-title="数字频道",文物宝库
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000293
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="http://kakaxi.indevs.in/LOGO/东方财经.png" group-title="数字频道",东方财经
-rtsp://111.48.34.138:1554/170000004112/HBGD9805155468386877444139298202
-#EXTINF:-1 tvg-name="乐游" tvg-logo="http://kakaxi.indevs.in/LOGO/乐游.png" group-title="数字频道",乐游
-rtsp://111.48.34.138:1554/170000004112/HBGD9805144459512381444870761474
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="http://kakaxi.indevs.in/LOGO/欢笑剧场.png" group-title="数字频道",欢笑剧场
-http://111.48.246.74/000000001000PLTV/88888888/224/3221230553/1.m3u8
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="http://kakaxi.indevs.in/LOGO/生活时尚.png" group-title="数字频道",生活时尚
-rtsp://111.48.34.138:1554/170000004112/HBGD9805148106502553603872020055
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="http://kakaxi.indevs.in/LOGO/都市剧场.png" group-title="数字频道",都市剧场
-rtsp://111.48.34.138:1554/170000004112/HBGD9805154232409374729511476870
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="http://kakaxi.indevs.in/LOGO/游戏风云.png" group-title="数字频道",游戏风云
-rtsp://111.48.34.138:1554/170000004112/HBGD9805158189928775682657390008
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="http://kakaxi.indevs.in/LOGO/金色学堂.png" group-title="数字频道",金色学堂
-rtsp://111.48.34.138:1554/170000004112/HBGD9805145630420992009556577523
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="http://kakaxi.indevs.in/LOGO/法治天地.png" group-title="数字频道",法治天地
-rtsp://111.48.34.138:1554/170000004112/HBGD9805147123567411206852572153
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="http://kakaxi.indevs.in/LOGO/动漫秀场.png" group-title="数字频道",动漫秀场
-rtsp://111.48.34.138:1554/170000004112/HBGD9805143433502638082196954568
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://kakaxi.indevs.in/LOGO/卡酷少儿.png" group-title="数字频道",卡酷少儿
-rtsp://111.48.34.138:1554/170000004112/HBGD7833080911839600643336215800
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://kakaxi.indevs.in/LOGO/金鹰卡通.png" group-title="数字频道",金鹰卡通
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000613
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="http://kakaxi.indevs.in/LOGO/哈哈炫动.png" group-title="数字频道",哈哈炫动
-http://111.48.246.74/000000001000PLTV/88888888/224/3221230578/1.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://kakaxi.indevs.in/LOGO/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
-http://111.48.246.74/000000001000PLTV/88888888/224/3221230580/1.m3u8
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="http://kakaxi.indevs.in/LOGO/新动漫.png" group-title="数字频道",新动漫
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000500
-#EXTINF:-1 tvg-name="中国交通" tvg-logo="http://kakaxi.indevs.in/LOGO/中国交通.png" group-title="数字频道",中国交通
-rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV16.png" group-title="4K频道",CCTV16
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000629
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV4K.png" group-title="4K频道",CCTV4K
-rtsp://111.48.34.138:1554/170000004112/HBGD8884193178146078726126298415
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/湖南卫视4K.png" group-title="4K频道",湖南卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD1161024675055546368175052165
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/浙江卫视4K.png" group-title="4K频道",浙江卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD1161024372223684608826694195
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/江苏卫视4K.png" group-title="4K频道",江苏卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD1161024061978324992408004965
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/东方卫视4K.png" group-title="4K频道",东方卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD1161023780712493056528252825
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/深圳卫视4K.png" group-title="4K频道",深圳卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD1134934009353457664504975325
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/北京卫视4K.png" group-title="4K频道",北京卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD1099046553413197824376375621
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/广东卫视4K.png" group-title="4K频道",广东卫视
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230606/1.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/四川卫视4K.png" group-title="4K频道",四川卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD1161024782644719616300513999
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/山东卫视4K.png" group-title="4K频道",山东卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD1161024518465400832464405079
+🖥️4K频道,#genre#
+CCTV-4K,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6604ddd5cf779/index.m3u8?m3u8_level=2
+
+🇨🇳央视频道,#genre#
+CCTV1综合,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
+CCTV2财经,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?m3u8_level=2
+CCTV3综艺,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638727c125355/index.m3u8?m3u8_level=2
+CCTV4中文国际,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?m3u8_level=2
+CCTV5体育,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638727e617ca0/index.m3u8?m3u8_level=2
+CCTV5+体育赛事,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63872908d48f9/index.m3u8?m3u8_level=2
+CCTV6电影,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638728804b1f9/index.m3u8?m3u8_level=2
+CCTV7国防军事,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000038BESTVSMGSMG/index.m3u8?m3u8_level=2
+CCTV8电视剧,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638728970aa82/index.m3u8?m3u8_level=2
+CCTV9纪录,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?m3u8_level=2
+CCTV10科教,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?m3u8_level=2
+CCTV11戏曲,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?m3u8_level=2
+CCTV12社会与法,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?m3u8_level=2
+CCTV13新闻,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?m3u8_level=2
+CCTV14少儿,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?m3u8_level=2
+CCTV15音乐,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?m3u8_level=2
+CCTV17农业农村,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638728afa13b4/index.m3u8?m3u8_level=2
+CCTV风云音乐,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63807810519fb/index.m3u8?m3u8_level=2
+CCTV风云足球,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638077160c04a/index.m3u8?m3u8_level=2
+CCTV央视台球,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6380775932cff/index.m3u8?m3u8_level=2
+CCTV高尔夫网球_,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63807743b61bb/index.m3u8?m3u8_level=2
+CCTV兵器科技,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638077907bdcd/index.m3u8?m3u8_level=2
+CCTV女性时尚,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638078715ba68/index.m3u8?m3u8_level=2
+CCTV电视指南,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638078586a829/index.m3u8?m3u8_level=2
+CCTV世界地理,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?m3u8_level=2
+CCTV怀旧剧场,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6380783f9a29a/index.m3u8?m3u8_level=2
+CCTV第一剧场,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638077f5ca035/index.m3u8?m3u8_level=2
+中国教育1,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3138605BESTVSMGSMG/index.m3u8?m3u8_level=2
+中国教育2,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN79471BESTVSMGSMG/index.m3u8?m3u8_level=2
+中国教育4,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6876519BESTVSMGSMG/index.m3u8?m3u8_level=2
+CGTN,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
+CGTN阿拉伯语,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638071b0e6a2c/index.m3u8?m3u8_level=2
+CGTN记录,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
+CGTN俄语,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
+CGTN法语,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2
+CGTN西班牙语,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2
+
+🇨🇳卫视频道,#genre#
+北京卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN181361BESTVSMGSMG/index.m3u8?m3u8_level=2
+东方卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN111131BESTVSMGSMG/index.m3u8?m3u8_level=2
+江苏卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN111129BESTVSMGSMG/index.m3u8?m3u8_level=2
+浙江卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN111130BESTVSMGSMG/index.m3u8?m3u8_level=2
+湖南卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN181358BESTVSMGSMG9/index.m3u8?m3u8_level=2
+湖北卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN911989BESTVSMGSMG/index.m3u8?m3u8_level=2
+广东卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN181359BESTVSMGSMG/index.m3u8?m3u8_level=2
+广西卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000045BESTVSMGSMG/index.m3u8?m3u8_level=2
+黑龙江卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN181356BESTVSMGSMG/index.m3u8?m3u8_level=2
+海南卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN4252684BESTVSMGSMG9/index.m3u8?m3u8_level=2
+重庆卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3840707BESTVSMGSMG9/index.m3u8?m3u8_level=2
+深圳卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN181362BESTVSMGSMG/index.m3u8?m3u8_level=2
+四川卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3840706BESTVSMGSMG9/index.m3u8?m3u8_level=2
+河南卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000044BESTVSMGSMG/index.m3u8?m3u8_level=2
+东南卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3540417BESTVSMGSMG/index.m3u8?m3u8_level=2
+贵州卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN4252663BESTVSMGSMG9/index.m3u8?m3u8_level=2
+江西卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3468921BESTVSMGSMG/index.m3u8?m3u8_level=2
+辽宁卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3450001BESTVSMGSMG/index.m3u8?m3u8_level=2
+安徽卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3540416BESTVSMGSMG/index.m3u8?m3u8_level=2
+河北卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN100000002BESTVSMGSMG9/index.m3u8?m3u8_level=2
+山东卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN911992BESTVSMGSMG/index.m3u8?m3u8_level=2
+天津卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN3450000BESTVSMGSMG/index.m3u8?m3u8_level=2
+吉林卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000046BESTVSMGSMG/index.m3u8?m3u8_level=2
+陕西卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000056BESTVSMGSMG/index.m3u8?m3u8_level=2
+甘肃卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000067BESTVSMGSMG/index.m3u8?m3u8_level=2
+宁夏卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN160782BESTVSMGSMG9/index.m3u8?m3u8_level=2
+内蒙古卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN79469BESTVSMGSMG9/index.m3u8?m3u8_level=2
+云南卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000043BESTVSMGSMG/index.m3u8?m3u8_level=2
+山西卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN1344BESTVSMGSMG9/index.m3u8?m3u8_level=2
+青海卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN67026BESTVSMGSMG9/index.m3u8?m3u8_level=2
+西藏卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN77574BESTVSMGSMG9/index.m3u8?m3u8_level=2
+新疆卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN126387BESTVSMGSMG9/index.m3u8?m3u8_level=2
+三沙卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63807b743da75/index.m3u8?m3u8_level=2
+兵团卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?m3u8_level=2
+厦门卫视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN484994BESTVSMGSMG/index.m3u8?m3u8_level=2
+
+💐地方频道,#genre#
+湖北公共,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?m3u8_level=2
+湖北垄上,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638072463c333/index.m3u8?m3u8_level=2
+湖北影视_,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6380728abccd2/index.m3u8?m3u8_level=2
+湖北教育,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?m3u8_level=2
+湖北生活,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638072c62e405/index.m3u8?m3u8_level=2
+湖北经视,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63807203543e3/index.m3u8?m3u8_level=2
+湖北综合,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638072216f7da/index.m3u8?m3u8_level=2
+
+
+👦🏻少儿频道,#genre#
+北京卡酷少儿,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?m3u8_level=2
+湖南金鹰卡通,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?m3u8_level=2
+
+🔢数字频道,#genre#
+快乐垂钓,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
+茶频道,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638729d8aca53/index.m3u8?m3u8_level=2
+梨园,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?m3u8_level=2
+文物宝库,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638078a346161/index.m3u8?m3u8_level=2
+武术世界,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638078be5d654/index.m3u8?m3u8_level=2
+
+🦚其他频道,#genre#
+CHC动作电影,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
+CHC家庭影院,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+CHC影迷电影,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
+欢笑剧场,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6000048BESTVSMGSMG/index.m3u8?m3u8_level=2
+金鹰纪实,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2
