@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="http://kakaxi.indevs.in/epg.xml"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV1.png" group-title="央视频道",CCTV1
 rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000131
